@@ -1,0 +1,5 @@
+User : index -> intro(지역/날짜/인원) -> inquiry(조회) -> main(상세정보) ->reservation(예약확인)
+
+Market : index -> intro(등록) -> /market/index(등록/수정/삭제/조회) -> regist(등록) / revise(조회/수정) / manage(예약관리)
+
+Admin : /admin/index(로그인) -> /admin/main.html(관리)
